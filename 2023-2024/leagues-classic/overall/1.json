@@ -1,0 +1,530 @@
+{
+  "new_entries": {
+    "has_next": false,
+    "page": 1,
+    "results": []
+  },
+  "last_updated_data": "2024-06-20T03:46:51",
+  "league": {
+    "id": 314,
+    "name": "Overall",
+    "created": "2023-07-05T15:13:54.679154Z",
+    "closed": false,
+    "max_entries": null,
+    "league_type": "s",
+    "scoring": "c",
+    "admin_entry": null,
+    "start_event": 1,
+    "code_privacy": "p",
+    "has_cup": true,
+    "cup_league": 2337883,
+    "rank": null
+  },
+  "standings": {
+    "results": [
+      {
+        "entry": 98027,
+        "event_total": 71,
+        "player_name": "Jonas Sand Låbakk",
+        "rank": 1,
+        "entry_name": "Onkel Blaa",
+        "rank_sort": 1,
+        "last_rank": 1,
+        "total": 2799
+      },
+      {
+        "entry": 5351824,
+        "event_total": 66,
+        "player_name": "Euan Thompson",
+        "rank": 2,
+        "entry_name": "Pinky and De Bruyne",
+        "rank_sort": 2,
+        "last_rank": 2,
+        "total": 2748
+      },
+      {
+        "entry": 387045,
+        "event_total": 77,
+        "player_name": "Ashley Marsh",
+        "rank": 3,
+        "entry_name": "Flying Without Ings",
+        "rank_sort": 3,
+        "last_rank": 4,
+        "total": 2738
+      },
+      {
+        "entry": 27371,
+        "event_total": 83,
+        "player_name": "Sundeep Jaswal",
+        "rank": 4,
+        "entry_name": "Alexandra Greats",
+        "rank_sort": 4,
+        "last_rank": 6,
+        "total": 2736
+      },
+      {
+        "entry": 599978,
+        "event_total": 86,
+        "player_name": "Ibrahim Albawardi",
+        "rank": 5,
+        "entry_name": "IBRAs",
+        "rank_sort": 5,
+        "last_rank": 11,
+        "total": 2727
+      },
+      {
+        "entry": 14482,
+        "event_total": 60,
+        "player_name": "Hjalmar Schörling",
+        "rank": 6,
+        "entry_name": "Schörlings Schakaler",
+        "rank_sort": 6,
+        "last_rank": 3,
+        "total": 2726
+      },
+      {
+        "entry": 7524301,
+        "event_total": 84,
+        "player_name": "Haris Kountouris",
+        "rank": 7,
+        "entry_name": "Tram",
+        "rank_sort": 7,
+        "last_rank": 17,
+        "total": 2722
+      },
+      {
+        "entry": 966811,
+        "event_total": 74,
+        "player_name": "Harry McBeth",
+        "rank": 8,
+        "entry_name": "A Cirkin Romance",
+        "rank_sort": 8,
+        "last_rank": 10,
+        "total": 2721
+      },
+      {
+        "entry": 318962,
+        "event_total": 87,
+        "player_name": "Tobias Marti",
+        "rank": 9,
+        "entry_name": "MadandTrista",
+        "rank_sort": 9,
+        "last_rank": 30,
+        "total": 2717
+      },
+      {
+        "entry": 207307,
+        "event_total": 58,
+        "player_name": "Adam Price",
+        "rank": 10,
+        "entry_name": "DropItLikeIt'sKlopp",
+        "rank_sort": 10,
+        "last_rank": 5,
+        "total": 2717
+      },
+      {
+        "entry": 6869,
+        "event_total": 74,
+        "player_name": "Ben Houghton",
+        "rank": 11,
+        "entry_name": "USS Mac Allister",
+        "rank_sort": 11,
+        "last_rank": 14,
+        "total": 2716
+      },
+      {
+        "entry": 82223,
+        "event_total": 81,
+        "player_name": "Sam McClenney",
+        "rank": 11,
+        "entry_name": "Boehly Rollers",
+        "rank_sort": 12,
+        "last_rank": 22,
+        "total": 2716
+      },
+      {
+        "entry": 33338,
+        "event_total": 101,
+        "player_name": "Tom Richmond",
+        "rank": 13,
+        "entry_name": "ThomasTheFrankEngine",
+        "rank_sort": 13,
+        "last_rank": 65,
+        "total": 2714
+      },
+      {
+        "entry": 4275850,
+        "event_total": 77,
+        "player_name": "Ahmed Habib",
+        "rank": 13,
+        "entry_name": "Ahmed Habib",
+        "rank_sort": 14,
+        "last_rank": 19,
+        "total": 2714
+      },
+      {
+        "entry": 19571,
+        "event_total": 74,
+        "player_name": "Erin Robinson",
+        "rank": 15,
+        "entry_name": "Erin’s XI",
+        "rank_sort": 15,
+        "last_rank": 20,
+        "total": 2710
+      },
+      {
+        "entry": 8492,
+        "event_total": 65,
+        "player_name": "Sam T",
+        "rank": 16,
+        "entry_name": "Ederson Ake & Palmer",
+        "rank_sort": 16,
+        "last_rank": 12,
+        "total": 2709
+      },
+      {
+        "entry": 1840492,
+        "event_total": 61,
+        "player_name": "Muath Alqahs",
+        "rank": 17,
+        "entry_name": "Alqahs",
+        "rank_sort": 17,
+        "last_rank": 8,
+        "total": 2709
+      },
+      {
+        "entry": 1648585,
+        "event_total": 61,
+        "player_name": "Christian Bogsnes",
+        "rank": 18,
+        "entry_name": "Bogakameratane",
+        "rank_sort": 18,
+        "last_rank": 9,
+        "total": 2709
+      },
+      {
+        "entry": 858,
+        "event_total": 88,
+        "player_name": "Chris Musson",
+        "rank": 19,
+        "entry_name": "Beverly Hills Klopp",
+        "rank_sort": 19,
+        "last_rank": 48,
+        "total": 2708
+      },
+      {
+        "entry": 535919,
+        "event_total": 70,
+        "player_name": "Carl Lawrence",
+        "rank": 20,
+        "entry_name": "Canvas Stretchers",
+        "rank_sort": 20,
+        "last_rank": 16,
+        "total": 2708
+      },
+      {
+        "entry": 281429,
+        "event_total": 65,
+        "player_name": "Geraint Owen",
+        "rank": 21,
+        "entry_name": "Co ni te Konaté",
+        "rank_sort": 21,
+        "last_rank": 15,
+        "total": 2707
+      },
+      {
+        "entry": 6413873,
+        "event_total": 71,
+        "player_name": "Sean Webb",
+        "rank": 22,
+        "entry_name": "The Invincibles",
+        "rank_sort": 22,
+        "last_rank": 24,
+        "total": 2705
+      },
+      {
+        "entry": 699645,
+        "event_total": 71,
+        "player_name": "Charin Iamprapakul",
+        "rank": 23,
+        "entry_name": "ฺBoyCharinFC",
+        "rank_sort": 23,
+        "last_rank": 29,
+        "total": 2702
+      },
+      {
+        "entry": 64640,
+        "event_total": 86,
+        "player_name": "Mark Brookes",
+        "rank": 24,
+        "entry_name": "Yes",
+        "rank_sort": 24,
+        "last_rank": 61,
+        "total": 2701
+      },
+      {
+        "entry": 2818044,
+        "event_total": 53,
+        "player_name": "Rishaad Khan",
+        "rank": 25,
+        "entry_name": "InItToWinIt",
+        "rank_sort": 25,
+        "last_rank": 7,
+        "total": 2701
+      },
+      {
+        "entry": 936267,
+        "event_total": 77,
+        "player_name": "David Martin",
+        "rank": 26,
+        "entry_name": "Kid Cuti",
+        "rank_sort": 26,
+        "last_rank": 40,
+        "total": 2701
+      },
+      {
+        "entry": 3745,
+        "event_total": 67,
+        "player_name": "Chris McMenamin",
+        "rank": 27,
+        "entry_name": "ForWhomTheBielsaToll",
+        "rank_sort": 27,
+        "last_rank": 27,
+        "total": 2700
+      },
+      {
+        "entry": 6428261,
+        "event_total": 79,
+        "player_name": "Robert Burgess",
+        "rank": 28,
+        "entry_name": "Ange Management",
+        "rank_sort": 28,
+        "last_rank": 49,
+        "total": 2698
+      },
+      {
+        "entry": 18895,
+        "event_total": 64,
+        "player_name": "Heerpal Sahota",
+        "rank": 29,
+        "entry_name": "FC St. Heerpauli",
+        "rank_sort": 29,
+        "last_rank": 23,
+        "total": 2698
+      },
+      {
+        "entry": 761,
+        "event_total": 61,
+        "player_name": "Jack Bones",
+        "rank": 30,
+        "entry_name": "Peace and Love",
+        "rank_sort": 30,
+        "last_rank": 18,
+        "total": 2698
+      },
+      {
+        "entry": 7284012,
+        "event_total": 82,
+        "player_name": "Aaryan Rathi",
+        "rank": 31,
+        "entry_name": "Small Heath Rifles",
+        "rank_sort": 31,
+        "last_rank": 59,
+        "total": 2698
+      },
+      {
+        "entry": 22957,
+        "event_total": 89,
+        "player_name": "Piotr Kasprzyk",
+        "rank": 32,
+        "entry_name": "No Kane No Gain",
+        "rank_sort": 32,
+        "last_rank": 79,
+        "total": 2697
+      },
+      {
+        "entry": 4949,
+        "event_total": 66,
+        "player_name": "Ross M",
+        "rank": 33,
+        "entry_name": "Return of the Mac",
+        "rank_sort": 33,
+        "last_rank": 28,
+        "total": 2697
+      },
+      {
+        "entry": 679086,
+        "event_total": 85,
+        "player_name": "Espen Trovåg",
+        "rank": 34,
+        "entry_name": "Katt>Bikkje",
+        "rank_sort": 34,
+        "last_rank": 67,
+        "total": 2697
+      },
+      {
+        "entry": 321,
+        "event_total": 78,
+        "player_name": "Divine Precious",
+        "rank": 35,
+        "entry_name": "Jung and Restless",
+        "rank_sort": 35,
+        "last_rank": 52,
+        "total": 2697
+      },
+      {
+        "entry": 714002,
+        "event_total": 53,
+        "player_name": "Stefan Josimovic",
+        "rank": 36,
+        "entry_name": "FK Kolonija",
+        "rank_sort": 36,
+        "last_rank": 13,
+        "total": 2696
+      },
+      {
+        "entry": 597361,
+        "event_total": 68,
+        "player_name": "Marko Meter Vrbanec",
+        "rank": 37,
+        "entry_name": "Man Blue",
+        "rank_sort": 37,
+        "last_rank": 35,
+        "total": 2696
+      },
+      {
+        "entry": 2855840,
+        "event_total": 74,
+        "player_name": "esa jussila",
+        "rank": 38,
+        "entry_name": "Ylikyläläiset",
+        "rank_sort": 38,
+        "last_rank": 44,
+        "total": 2695
+      },
+      {
+        "entry": 733888,
+        "event_total": 78,
+        "player_name": "ned atiyah",
+        "rank": 39,
+        "entry_name": "tim ream Slay Queen",
+        "rank_sort": 39,
+        "last_rank": 55,
+        "total": 2695
+      },
+      {
+        "entry": 548987,
+        "event_total": 61,
+        "player_name": "Matt Wheeler",
+        "rank": 40,
+        "entry_name": "Wheel Madrid C.F.",
+        "rank_sort": 40,
+        "last_rank": 24,
+        "total": 2695
+      },
+      {
+        "entry": 4464834,
+        "event_total": 58,
+        "player_name": "Aurora Folmo Myhr",
+        "rank": 41,
+        "entry_name": "Gutta",
+        "rank_sort": 41,
+        "last_rank": 20,
+        "total": 2694
+      },
+      {
+        "entry": 2593,
+        "event_total": 74,
+        "player_name": "Ben Tinker",
+        "rank": 42,
+        "entry_name": "Erling Riser",
+        "rank_sort": 42,
+        "last_rank": 50,
+        "total": 2693
+      },
+      {
+        "entry": 297786,
+        "event_total": 72,
+        "player_name": "Sherif Khalifa",
+        "rank": 42,
+        "entry_name": "Groß Returns",
+        "rank_sort": 43,
+        "last_rank": 45,
+        "total": 2693
+      },
+      {
+        "entry": 6968,
+        "event_total": 85,
+        "player_name": "Graham Mcnicholas",
+        "rank": 44,
+        "entry_name": "G macs",
+        "rank_sort": 44,
+        "last_rank": 80,
+        "total": 2693
+      },
+      {
+        "entry": 47971,
+        "event_total": 72,
+        "player_name": "Gavin Doherty",
+        "rank": 44,
+        "entry_name": "Finding Timo",
+        "rank_sort": 45,
+        "last_rank": 46,
+        "total": 2693
+      },
+      {
+        "entry": 11542,
+        "event_total": 71,
+        "player_name": "RuStic BoY",
+        "rank": 46,
+        "entry_name": "RuStic_BoY UniTeD",
+        "rank_sort": 46,
+        "last_rank": 43,
+        "total": 2693
+      },
+      {
+        "entry": 465142,
+        "event_total": 62,
+        "player_name": "Dan Simpo",
+        "rank": 47,
+        "entry_name": "Bangkockney Blade",
+        "rank_sort": 47,
+        "last_rank": 31,
+        "total": 2692
+      },
+      {
+        "entry": 1796998,
+        "event_total": 78,
+        "player_name": "Christopher Lay",
+        "rank": 48,
+        "entry_name": "Bochum Juniors",
+        "rank_sort": 48,
+        "last_rank": 63,
+        "total": 2692
+      },
+      {
+        "entry": 234124,
+        "event_total": 75,
+        "player_name": "Christopher Muir",
+        "rank": 49,
+        "entry_name": "Tonali's Cheeky Acca",
+        "rank_sort": 49,
+        "last_rank": 57,
+        "total": 2692
+      },
+      {
+        "entry": 406476,
+        "event_total": 67,
+        "player_name": "Matt Spina",
+        "rank": 50,
+        "entry_name": "Fugazi United",
+        "rank_sort": 50,
+        "last_rank": 37,
+        "total": 2691
+      }
+    ],
+    "has_next": true,
+    "page": 1
+  },
+  "edge_processed": true
+}

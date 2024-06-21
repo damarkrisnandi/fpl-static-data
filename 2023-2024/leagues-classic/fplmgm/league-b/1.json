@@ -1,0 +1,460 @@
+{
+  "new_entries": {
+    "has_next": false,
+    "page": 1,
+    "results": []
+  },
+  "last_updated_data": "2024-06-21T03:21:20",
+  "league": {
+    "id": 633913,
+    "name": "FPLMGM #4 LIGA B",
+    "created": "2023-07-29T05:45:21.487182Z",
+    "closed": true,
+    "max_entries": null,
+    "league_type": "x",
+    "scoring": "c",
+    "admin_entry": 1034333,
+    "start_event": 1,
+    "code_privacy": "p",
+    "has_cup": true,
+    "cup_league": 2481471,
+    "rank": null
+  },
+  "standings": {
+    "results": [
+      {
+        "entry": 1894963,
+        "event_total": 75,
+        "player_name": "Asdfg hjkl",
+        "rank": 1,
+        "entry_name": "Asdfghjkl",
+        "rank_sort": 1,
+        "last_rank": 1,
+        "total": 2407
+      },
+      {
+        "entry": 5205650,
+        "event_total": 55,
+        "player_name": "Novan Lutfi",
+        "rank": 2,
+        "entry_name": "ArsenalTsunamiTrofi",
+        "rank_sort": 2,
+        "last_rank": 2,
+        "total": 2378
+      },
+      {
+        "entry": 6246444,
+        "event_total": 90,
+        "player_name": "Robby Auzigni",
+        "rank": 3,
+        "entry_name": "Shinzui",
+        "rank_sort": 3,
+        "last_rank": 4,
+        "total": 2359
+      },
+      {
+        "entry": 4943542,
+        "event_total": 56,
+        "player_name": "Fahri Bonbon",
+        "rank": 4,
+        "entry_name": "Tjoklat FPL",
+        "rank_sort": 4,
+        "last_rank": 3,
+        "total": 2351
+      },
+      {
+        "entry": 3056212,
+        "event_total": 85,
+        "player_name": "maWar Melati",
+        "rank": 5,
+        "entry_name": "mencoba sabar",
+        "rank_sort": 5,
+        "last_rank": 6,
+        "total": 2303
+      },
+      {
+        "entry": 758530,
+        "event_total": 60,
+        "player_name": "Burhan Abdurrahman",
+        "rank": 6,
+        "entry_name": "HMMM",
+        "rank_sort": 6,
+        "last_rank": 5,
+        "total": 2302
+      },
+      {
+        "entry": 1656805,
+        "event_total": 74,
+        "player_name": "Awan Kurniadi",
+        "rank": 7,
+        "entry_name": "Team Name",
+        "rank_sort": 7,
+        "last_rank": 8,
+        "total": 2272
+      },
+      {
+        "entry": 2246172,
+        "event_total": 57,
+        "player_name": "Hanif Maulana",
+        "rank": 8,
+        "entry_name": "Nyaw Faux Gladiators",
+        "rank_sort": 8,
+        "last_rank": 7,
+        "total": 2258
+      },
+      {
+        "entry": 1388252,
+        "event_total": 56,
+        "player_name": "Rudi Prihandoko",
+        "rank": 9,
+        "entry_name": "Haish",
+        "rank_sort": 9,
+        "last_rank": 9,
+        "total": 2241
+      },
+      {
+        "entry": 4937530,
+        "event_total": 42,
+        "player_name": "Naufal Ibnu Amzani",
+        "rank": 10,
+        "entry_name": "mz2bys",
+        "rank_sort": 10,
+        "last_rank": 10,
+        "total": 2203
+      },
+      {
+        "entry": 1034333,
+        "event_total": 62,
+        "player_name": "Panitia Liga",
+        "rank": 11,
+        "entry_name": "DeGadjah",
+        "rank_sort": 11,
+        "last_rank": 12,
+        "total": 2180
+      },
+      {
+        "entry": 3002177,
+        "event_total": 38,
+        "player_name": "Rian Saputra",
+        "rank": 12,
+        "entry_name": "Bantoel pride",
+        "rank_sort": 12,
+        "last_rank": 11,
+        "total": 2170
+      },
+      {
+        "entry": 2564490,
+        "event_total": 68,
+        "player_name": "Bintang Apriansyah",
+        "rank": 13,
+        "entry_name": "Ntangskii",
+        "rank_sort": 13,
+        "last_rank": 14,
+        "total": 2095
+      },
+      {
+        "entry": 5912696,
+        "event_total": 36,
+        "player_name": "Putra Andika",
+        "rank": 14,
+        "entry_name": "MNFC",
+        "rank_sort": 14,
+        "last_rank": 13,
+        "total": 2079
+      },
+      {
+        "entry": 5092912,
+        "event_total": 61,
+        "player_name": "Luthfi Syafi Abdillah",
+        "rank": 15,
+        "entry_name": "Shicibukai FC",
+        "rank_sort": 15,
+        "last_rank": 16,
+        "total": 2079
+      },
+      {
+        "entry": 2511130,
+        "event_total": 44,
+        "player_name": "Hinedine Hidane",
+        "rank": 16,
+        "entry_name": "Dodowi FC",
+        "rank_sort": 16,
+        "last_rank": 15,
+        "total": 2075
+      },
+      {
+        "entry": 3654475,
+        "event_total": 81,
+        "player_name": "Fredrik Kraeng",
+        "rank": 17,
+        "entry_name": "Jongkudi FC",
+        "rank_sort": 17,
+        "last_rank": 21,
+        "total": 2057
+      },
+      {
+        "entry": 6330754,
+        "event_total": 58,
+        "player_name": "Utsman Arifin",
+        "rank": 18,
+        "entry_name": "Enthulut",
+        "rank_sort": 18,
+        "last_rank": 17,
+        "total": 2056
+      },
+      {
+        "entry": 4244985,
+        "event_total": 66,
+        "player_name": "Andou Ryuu",
+        "rank": 19,
+        "entry_name": "CaptainEasy FC",
+        "rank_sort": 19,
+        "last_rank": 20,
+        "total": 2044
+      },
+      {
+        "entry": 7481499,
+        "event_total": 39,
+        "player_name": "Ridho Y",
+        "rank": 20,
+        "entry_name": "Harmonics 3th order",
+        "rank_sort": 20,
+        "last_rank": 18,
+        "total": 2033
+      },
+      {
+        "entry": 5043589,
+        "event_total": 52,
+        "player_name": "Faiz Zulfan",
+        "rank": 21,
+        "entry_name": "Wota Merah",
+        "rank_sort": 21,
+        "last_rank": 19,
+        "total": 2032
+      },
+      {
+        "entry": 5559771,
+        "event_total": 48,
+        "player_name": "Dwi Aji W",
+        "rank": 22,
+        "entry_name": "Orca",
+        "rank_sort": 22,
+        "last_rank": 22,
+        "total": 2014
+      },
+      {
+        "entry": 4146417,
+        "event_total": 55,
+        "player_name": "Krishna Zada Kurniawan",
+        "rank": 23,
+        "entry_name": "Scuderia La Campione",
+        "rank_sort": 23,
+        "last_rank": 23,
+        "total": 1990
+      },
+      {
+        "entry": 3003402,
+        "event_total": 55,
+        "player_name": "Faris Elsyad",
+        "rank": 24,
+        "entry_name": "Rakuzan37",
+        "rank_sort": 24,
+        "last_rank": 26,
+        "total": 1965
+      },
+      {
+        "entry": 5942211,
+        "event_total": 70,
+        "player_name": "Elbert Felix Arthur Tampubolon",
+        "rank": 25,
+        "entry_name": "LASTLORD FC",
+        "rank_sort": 25,
+        "last_rank": 29,
+        "total": 1963
+      },
+      {
+        "entry": 5066311,
+        "event_total": 43,
+        "player_name": "Ivan Luthfi Ihwani",
+        "rank": 26,
+        "entry_name": "Pepsodent Siwak",
+        "rank_sort": 26,
+        "last_rank": 27,
+        "total": 1952
+      },
+      {
+        "entry": 5431826,
+        "event_total": 47,
+        "player_name": "Zaky Nur Kusmantoro",
+        "rank": 27,
+        "entry_name": "Team Codex",
+        "rank_sort": 27,
+        "last_rank": 28,
+        "total": 1952
+      },
+      {
+        "entry": 4671505,
+        "event_total": 39,
+        "player_name": "Raden Aurelius Andhika Viadinugroho",
+        "rank": 28,
+        "entry_name": "Anti Haram Football",
+        "rank_sort": 28,
+        "last_rank": 24,
+        "total": 1952
+      },
+      {
+        "entry": 5575803,
+        "event_total": 29,
+        "player_name": "Fikra Ar Razi",
+        "rank": 29,
+        "entry_name": "Elang laut OYE",
+        "rank_sort": 29,
+        "last_rank": 25,
+        "total": 1941
+      },
+      {
+        "entry": 5406201,
+        "event_total": 43,
+        "player_name": "Anandya Devan",
+        "rank": 30,
+        "entry_name": "dvn",
+        "rank_sort": 30,
+        "last_rank": 30,
+        "total": 1922
+      },
+      {
+        "entry": 6720821,
+        "event_total": 59,
+        "player_name": "win wanranto",
+        "rank": 31,
+        "entry_name": "laskar pasoepati",
+        "rank_sort": 31,
+        "last_rank": 32,
+        "total": 1863
+      },
+      {
+        "entry": 5517099,
+        "event_total": 53,
+        "player_name": "Yanuz Nurchalik",
+        "rank": 32,
+        "entry_name": "Mathricks",
+        "rank_sort": 32,
+        "last_rank": 33,
+        "total": 1851
+      },
+      {
+        "entry": 4626545,
+        "event_total": 29,
+        "player_name": "Narendra Wicaksono",
+        "rank": 33,
+        "entry_name": "Wonosobo FC",
+        "rank_sort": 33,
+        "last_rank": 31,
+        "total": 1845
+      },
+      {
+        "entry": 7177572,
+        "event_total": 32,
+        "player_name": "rizal yudha tama",
+        "rank": 34,
+        "entry_name": "Penikmat Pecel",
+        "rank_sort": 34,
+        "last_rank": 34,
+        "total": 1789
+      },
+      {
+        "entry": 5548818,
+        "event_total": 38,
+        "player_name": "bachruddin r",
+        "rank": 35,
+        "entry_name": "REBORN",
+        "rank_sort": 35,
+        "last_rank": 35,
+        "total": 1748
+      },
+      {
+        "entry": 6809580,
+        "event_total": 61,
+        "player_name": "Fauzul Akmal Huda",
+        "rank": 36,
+        "entry_name": "Manchunian",
+        "rank_sort": 36,
+        "last_rank": 37,
+        "total": 1747
+      },
+      {
+        "entry": 9926229,
+        "event_total": 67,
+        "player_name": "gufron arief",
+        "rank": 37,
+        "entry_name": "Nyusul",
+        "rank_sort": 37,
+        "last_rank": 38,
+        "total": 1732
+      },
+      {
+        "entry": 7523365,
+        "event_total": 31,
+        "player_name": "Fajar Nur Ahmad",
+        "rank": 38,
+        "entry_name": "Tsunamy Trophy FC",
+        "rank_sort": 38,
+        "last_rank": 36,
+        "total": 1721
+      },
+      {
+        "entry": 7117178,
+        "event_total": 29,
+        "player_name": "illib uhtsaw",
+        "rank": 39,
+        "entry_name": "hijklmn opqrstu",
+        "rank_sort": 39,
+        "last_rank": 39,
+        "total": 1669
+      },
+      {
+        "entry": 6690224,
+        "event_total": 53,
+        "player_name": "Fadhel Muhammad",
+        "rank": 40,
+        "entry_name": "Gembul FC",
+        "rank_sort": 40,
+        "last_rank": 41,
+        "total": 1645
+      },
+      {
+        "entry": 6978749,
+        "event_total": 40,
+        "player_name": "Zero 0ne",
+        "rank": 41,
+        "entry_name": "zer0ne Fc",
+        "rank_sort": 41,
+        "last_rank": 40,
+        "total": 1640
+      },
+      {
+        "entry": 5959141,
+        "event_total": 38,
+        "player_name": "Titus Christiawan",
+        "rank": 42,
+        "entry_name": "God's Gift FC",
+        "rank_sort": 42,
+        "last_rank": 42,
+        "total": 1601
+      },
+      {
+        "entry": 8229082,
+        "event_total": 44,
+        "player_name": "Hilmi F",
+        "rank": 43,
+        "entry_name": "Hilmif",
+        "rank_sort": 43,
+        "last_rank": 43,
+        "total": 1506
+      }
+    ],
+    "has_next": false,
+    "page": 1
+  },
+  "edge_processed": true
+}

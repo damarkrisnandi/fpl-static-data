@@ -1,0 +1,29 @@
+{
+  "new_entries": {
+    "has_next": false,
+    "page": 1,
+    "results": []
+  },
+  "last_updated_data": "2024-06-21T03:21:15",
+  "league": {
+    "id": 633913,
+    "name": "FPLMGM #4 LIGA B",
+    "created": "2023-07-29T05:45:21.487182Z",
+    "closed": true,
+    "max_entries": null,
+    "league_type": "x",
+    "scoring": "c",
+    "admin_entry": 1034333,
+    "start_event": 1,
+    "code_privacy": "p",
+    "has_cup": true,
+    "cup_league": 2481471,
+    "rank": null
+  },
+  "standings": {
+    "results": [],
+    "has_next": false,
+    "page": 2
+  },
+  "edge_processed": true
+}
