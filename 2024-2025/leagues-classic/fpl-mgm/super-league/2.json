@@ -1,0 +1,233 @@
+{
+  "new_entries": {
+    "has_next": false,
+    "page": 1,
+    "results": []
+  },
+  "last_updated_data": "2025-05-25T18:09:31Z",
+  "league": {
+    "id": 815963,
+    "name": "FPLMGM#5 Liga S",
+    "created": "2024-08-08T15:02:59.240207Z",
+    "closed": false,
+    "max_entries": null,
+    "league_type": "x",
+    "scoring": "c",
+    "admin_entry": 3869340,
+    "start_event": 1,
+    "code_privacy": "p",
+    "has_cup": true,
+    "cup_league": 2571418,
+    "rank": null
+  },
+  "standings": {
+    "has_next": false,
+    "page": 2,
+    "results": [
+      {
+        "id": 61196930,
+        "event_total": 34,
+        "player_name": "Asdfg hjkl",
+        "rank": 51,
+        "last_rank": 49,
+        "rank_sort": 51,
+        "total": 1958,
+        "entry": 7296569,
+        "entry_name": "asdfghjkl",
+        "has_played": true
+      },
+      {
+        "id": 61457085,
+        "event_total": 41,
+        "player_name": "Zaky Nur Kusmantoro",
+        "rank": 52,
+        "last_rank": 52,
+        "rank_sort": 52,
+        "total": 1896,
+        "entry": 7314552,
+        "entry_name": "Team Codex",
+        "has_played": true
+      },
+      {
+        "id": 72497050,
+        "event_total": 32,
+        "player_name": "Ayomi Sasmito",
+        "rank": 53,
+        "last_rank": 53,
+        "rank_sort": 53,
+        "total": 1852,
+        "entry": 8450945,
+        "entry_name": "Yomski FC",
+        "has_played": true
+      },
+      {
+        "id": 79992477,
+        "event_total": 49,
+        "player_name": "Muhammad Fadhiil Arya",
+        "rank": 54,
+        "last_rank": 54,
+        "rank_sort": 54,
+        "total": 1819,
+        "entry": 8568591,
+        "entry_name": "Nyut FC",
+        "has_played": true
+      },
+      {
+        "id": 82347815,
+        "event_total": 77,
+        "player_name": "Titus Christiawan",
+        "rank": 55,
+        "last_rank": 57,
+        "rank_sort": 55,
+        "total": 1795,
+        "entry": 8311070,
+        "entry_name": "LFC Cabang Jaksel FC",
+        "has_played": true
+      },
+      {
+        "id": 46653122,
+        "event_total": 33,
+        "player_name": "Ivan Tae Yong",
+        "rank": 56,
+        "last_rank": 55,
+        "rank_sort": 56,
+        "total": 1787,
+        "entry": 5928287,
+        "entry_name": "Meriam Lontong",
+        "has_played": true
+      },
+      {
+        "id": 26902889,
+        "event_total": 32,
+        "player_name": "Panitia Liga",
+        "rank": 57,
+        "last_rank": 56,
+        "rank_sort": 57,
+        "total": 1767,
+        "entry": 3869340,
+        "entry_name": "De Gadjah",
+        "has_played": true
+      },
+      {
+        "id": 28103348,
+        "event_total": 55,
+        "player_name": "Muhammad Radhi",
+        "rank": 58,
+        "last_rank": 59,
+        "rank_sort": 58,
+        "total": 1754,
+        "entry": 3960494,
+        "entry_name": "Bane User",
+        "has_played": true
+      },
+      {
+        "id": 28154379,
+        "event_total": 35,
+        "player_name": "Kurnia Ae",
+        "rank": 59,
+        "last_rank": 58,
+        "rank_sort": 59,
+        "total": 1750,
+        "entry": 3964783,
+        "entry_name": "ONO AE",
+        "has_played": true
+      },
+      {
+        "id": 54867532,
+        "event_total": 32,
+        "player_name": "Fahri Bonbon",
+        "rank": 60,
+        "last_rank": 60,
+        "rank_sort": 60,
+        "total": 1695,
+        "entry": 4274197,
+        "entry_name": "Tjoklat FPL",
+        "has_played": true
+      },
+      {
+        "id": 81527533,
+        "event_total": 21,
+        "player_name": "Raden Aurelius Andhika Viadinugroho",
+        "rank": 61,
+        "last_rank": 61,
+        "rank_sort": 61,
+        "total": 1669,
+        "entry": 6767524,
+        "entry_name": "Ojo Lali Adate",
+        "has_played": true
+      },
+      {
+        "id": 28097948,
+        "event_total": 41,
+        "player_name": "Burhan Abdurrahman",
+        "rank": 62,
+        "last_rank": 62,
+        "rank_sort": 62,
+        "total": 1605,
+        "entry": 3947149,
+        "entry_name": "HMMM",
+        "has_played": true
+      },
+      {
+        "id": 54735314,
+        "event_total": 24,
+        "player_name": "Iwan Ernanto",
+        "rank": 63,
+        "last_rank": 63,
+        "rank_sort": 63,
+        "total": 1584,
+        "entry": 4251612,
+        "entry_name": "Hero FC",
+        "has_played": true
+      },
+      {
+        "id": 81535560,
+        "event_total": 33,
+        "player_name": "Anandya Devan",
+        "rank": 64,
+        "last_rank": 64,
+        "rank_sort": 64,
+        "total": 1442,
+        "entry": 9439845,
+        "entry_name": "dvn",
+        "has_played": true
+      },
+      {
+        "id": 76447199,
+        "event_total": 32,
+        "player_name": "Fajar Nur Ahmad",
+        "rank": 65,
+        "last_rank": 66,
+        "rank_sort": 65,
+        "total": 1440,
+        "entry": 8859426,
+        "entry_name": "Janur Melengking",
+        "has_played": true
+      },
+      {
+        "id": 70084298,
+        "event_total": 24,
+        "player_name": "bachruddin r",
+        "rank": 66,
+        "last_rank": 64,
+        "rank_sort": 66,
+        "total": 1433,
+        "entry": 8208069,
+        "entry_name": "REBORNN",
+        "has_played": true
+      },
+      {
+        "id": 64274353,
+        "event_total": 28,
+        "player_name": "Narendra Wicaksono",
+        "rank": 67,
+        "last_rank": 67,
+        "rank_sort": 67,
+        "total": 1427,
+        "entry": 7614399,
+        "entry_name": "Wonosobo FC",
+        "has_played": true
+      }
+    ]
+  }
+}
